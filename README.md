@@ -25,9 +25,9 @@ Dalam web scraping ini ada beberapa tools yang harus digunakan, diantaranya adal
 &emsp;* pip install pandas<br/>
 &emsp;* pip install beatifulsoup4<br/><br/>
 ![img.ss](Screenshots/ss3.png)
-*Requests merupakan library untuk proses mengirim dan mengambil data menggunakan protokol HTTP.*
+*Requests merupakan library untuk proses mengirim dan mengambil data menggunakan protokol HTTP.*<br/><br/>
 ![img.ss](Screenshots/ss4.png)
-*BeautifulSoup merupakan library yang digunakan untuk proses web scraping halaman HTML dan XML.*
+*BeautifulSoup merupakan library yang digunakan untuk proses web scraping halaman HTML dan XML.*<br/><br/>
 ![img.ss](Screenshots/ss4.1.png)
 *Pandas adalah library open source pada Python yang sering digunakan untuk memproses data yang meliputi pembersihan data, manipulasi data, hingga melakukan analisis data.*<br/><br/>
 - Library pip sudah berhasil di install.
@@ -35,17 +35,17 @@ Dalam web scraping ini ada beberapa tools yang harus digunakan, diantaranya adal
 ![img.ss](Screenshots/ss5.png)
 
 ## Pengerjaan
-- Buka [google collab](https://colab.research.google.com/) untuk membuat project baru.
+- Buka [google collab](https://colab.research.google.com/) untuk membuat project baru.<br/>
 ![img.ss](Screenshots/ss2.png)
 - Jika sudah terbuka, klik tab *File* dan klik *Notebook baru*<br/>
 ![img.ss](Screenshots/ss6.png)
 - Maka, kita akan beralih kehalaman baru, silahkan ganti nama file sesuai keinginan<br/>
 ![img.ss](Screenshots/ss7.png)
-- import library yang sudah di install tadi
+- import library yang sudah di install tadi<br/>
 ![img.ss](Screenshots/ss8.png)
-- Disini saya akan melakukan web scraping VGA RTX terlaris pada website toko online, yaitu Bukalapak
+- Disini saya akan melakukan web scraping VGA RTX terlaris pada website toko online, yaitu Bukalapak<br/>
 ![img.ss](Screenshots/ss9.png)
-- Maka ketika di RUN, hasilnya akan menunjukan Merek VGA dan juga harganya
+- Maka ketika di RUN, hasilnya akan menunjukan Merek VGA dan juga harganya<br/>
 ![img.ss](Screenshots/ss10.png)
 
 ### Kesimpulan
@@ -57,7 +57,7 @@ Sekian dari repository yang sudah Saya buat ini. Mohon maaf jika ada kesalahan k
 
 ```
 Nama 	: Rhendy Diki Nugraha
-NIM	    : 312210150
+NIM	: 312210150
 Kelas	: TI.22.A.1
 Dosen 	: Agung Nugroho,S.Kom.,M.Kom
 ```
